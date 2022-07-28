@@ -1,0 +1,140 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Store Locator - CSV v1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-17 23:41+0100\n"
+"PO-Revision-Date: 2015-09-01 13:49+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-WPSL_EXT_Admin.php:262
+msgid "Extenders"
+msgstr ""
+
+#: admin/class-WPSL_EXT_Admin.php:287
+msgid "Settings"
+msgstr ""
+
+#: admin/class-WPSL_EXT_Admin.php:293
+msgid "WPSL Extenders"
+msgstr ""
+
+#: admin/class-WPSL_EXT_Settings.php:58
+msgid "Publish location immediately?"
+msgstr ""
+
+#: admin/class-WPSL_EXT_Settings.php:64
+msgid "When checked a newly entered location is published immediately."
+msgstr ""
+
+#: admin/class-WPSL_EXT_Settings.php:65
+msgid ""
+"When not checked, the geocode of a newly entered location is removed to "
+"block publishing."
+msgstr ""
+
+#: admin/class-WPSL_EXT_Settings.php:66
+msgid ""
+"This needs the re-geocoding functionality to publish blocked locations."
+msgstr ""
+
+#: admin/class-WPSL_EXT_Settings.php:69
+msgid "Allow new user by default?"
+msgstr ""
+
+#: admin/class-WPSL_EXT_Settings.php:75
+msgid ""
+"When checked a newly added user is allowed to manage locations immediately."
+msgstr ""
+
+#: admin/class-WPSL_EXT_Settings.php:78
+msgid "Show edit buttons?"
+msgstr ""
+
+#: admin/class-WPSL_EXT_Settings.php:84
+msgid ""
+"When checked an edit button is added to assist managing a users locations."
+msgstr ""
+
+#: admin/class-WPSL_EXT_Settings.php:222
+msgid "User Managed Locations Settings"
+msgstr ""
+
+#: admin/class-WPSL_EXT_Settings.php:243
+msgid "Save Settings"
+msgstr ""
+
+#: admin/class-WPSL_EXT_UserManaged.php:242
+#: admin/class-WPSL_EXT_UserManaged.php:243
+msgid "edit location"
+msgstr ""
+
+#: admin/class-WPSL_EXT_UserManaged.php:277
+msgid "User is allowed to manage locations."
+msgstr ""
+
+#: admin/class-WPSL_EXT_UserManaged.php:279
+#, php-format
+msgid "Currently managing one location."
+msgid_plural "Currently managing %d locations."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-WPSL_EXT_UserManaged.php:282
+msgid "User is not allowed to manage any location."
+msgstr ""
+
+#: admin/class-WPSL_EXT_UserManaged.php:287
+msgid "WP Store Locator"
+msgstr ""
+
+#: admin/class-WPSL_EXT_UserManaged.php:290
+msgid "User Managed Locations"
+msgstr ""
+
+#: admin/class-WPSL_EXT_UserManaged.php:398
+#: admin/class-WPSL_EXT_UserManaged.php:455
+msgid "Allow"
+msgstr ""
+
+#: admin/class-WPSL_EXT_UserManaged.php:399
+#: admin/class-WPSL_EXT_UserManaged.php:456
+msgid "Disallow"
+msgstr ""
+
+#: admin/class-WPSL_EXT_UserManaged.php:425
+msgid "Manage Stores"
+msgstr ""
+
+#: admin/class-WPSL_EXT_UserManaged.php:426
+msgid "#Locations"
+msgstr ""
+
+#: admin/class-WPSL_EXT_UserManaged.php:474
+#: admin/class-WPSL_EXT_UserManaged.php:477
+msgid "Disallowed"
+msgstr ""
+
+#: admin/class-WPSL_EXT_UserManaged.php:477
+msgid "Allowed"
+msgstr ""
+
+#: wp-store-locator-extenders.php:126
+#, php-format
+msgid ""
+"Please upgrade WP Store Locator to the %slatest version%s before using the "
+"WPSL Extenders add-on."
+msgstr ""
